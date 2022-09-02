@@ -1,0 +1,32 @@
+<head>
+<limk rel="stylesheet" type="text/css" media="screen" href=style.css">
+body {
+    width: 100%;
+    height: 100%; 
+} 
+.menuprincipal { 
+   backgroud-color: #252323;
+   height: 60px;
+}
+main { 
+width: 980px;
+float: left;
+position: relative;
+}
+   
+  h1{color: blue;}
+
+  h1{text-align: center;}
+
+* {margin:0;padding:0;}
+body 
+.comentarios 
+.comentarios > span {font-size:2em;font-weight:bold;}
+.nome {display:block;margin-left:5em;}
+.novo {margin-top:1em;}
+textarea {width:60%;height:10em;margin-left:5em;float:left;}
+.boton {width:6em;height:1.5em;font-size:1em;margin-left:1em;margin-top:7em;margin-bottom:1em;}
+.boton:hover {cursor:pointer;}
+
+</style>
+</head>
