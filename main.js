@@ -1,4 +1,4 @@
-<script>
+
       //window.onload = function(){
   //textarea.focus();
 //};
@@ -252,4 +252,4 @@ function Tab(evt, Tab) {
       evt.currentTarget.className += " active";
     }
 
-    </script>
+  
